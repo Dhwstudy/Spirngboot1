@@ -7,5 +7,6 @@ public class git1 {
         System.out.println("www");
         System.out.println("git3");
         System.out.println("git-hotfix");
+        System.out.println("master-hotfix");
     }
 }
